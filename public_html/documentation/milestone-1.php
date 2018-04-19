@@ -13,7 +13,8 @@
 		highschool, the parents of these students, young professionals searching for Linkedin profile pictures, and actors needing headshots.</h2>
 		</p>
 		<h2>Goal:</h2>
-		<p>The goal of this project attract new clients and be the platform to facilitate developing individual portfolios with location-specific sessions</p>
+		<p>The goal of this project attract new clients and be the platform to facilitate developing individual portfolios with location-specific sessions.
+		The service is to have a kitsch-y theme in line with the "fly with me" motto and be known primarily as an image-development organization. </p>
 	</section>
 	<section id="Persona">
 		<h1>Persona</h1>
