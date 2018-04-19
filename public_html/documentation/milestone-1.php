@@ -18,25 +18,25 @@
 		<h2>Name: <strong></strong></h2>
 		<h2>Age:</h2>
 		<h2>Gender: Female</h2>
-	<div>
+	<div id="student">
 		<h2>Profession:</h2>
 		<p></p>
-	</div><div>
+	</div><div id="tech">
 		<h2>Technology:</h2>
 			<p></p>
-		</div><div>
+		</div><div id="behaviors">
 			<h2>Outlook</h2>
-		</div><div>
+		</div><div id="needs">
 			<h2>Frustrations/Needs</h2>
 			<ul>
 				<li></li>
 				<li></li>
 				<li></li>
 			</ul>
-		</div><div>
+		</div><div id="Goals">
 			<h2>Goals</h2>
 			<p></p>
-		</div><div>
+		</div><div id="user-story">
 			<h2>User Story</h2>
 			<p></p>
 			</div>
