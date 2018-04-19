@@ -1,35 +1,40 @@
 <?php
 ?>
-<head>
-
-</head>
-<body>
+<!--<head>-->
+<!---->
+<!--</head>-->
+<!--<body>-->
 	<section id="purpose-audience-goal">
 		<h1>Persona, Audience, Goal</h1>
 		<h2>Purpose:</h2>
-		<p>: This project will be a professional portfolio website with a focus on front-end web development.</p>
+		<p>This project will be a professional photography portfolio website with a focus on attracting new clients (Subjects).</p>
 		<h2>Audience:</h2>
-		<p></p>
+		<p>To attract a range of clients looking for elite portrait photography work, including young adults nearing the end of
+		highschool, the parents of these students, young professionals searching for Linkedin profile pictures, and actors needing headshots.</h2>
+		</p>
 		<h2>Goal:</h2>
-		<p></p>
+		<p>The goal of this project attract new clients and be the platform to facilitate developing individual portfolios with location-specific sessions</p>
 	</section>
 	<section id="Persona">
 		<h1>Persona</h1>
-		<h2>Name: <strong></strong></h2>
-		<h2>Age:</h2>
+		<h2>Name: <strong>Allison Wonders</strong></h2>
+		<h2>Age: 18</h2>
 		<h2>Gender: Female</h2>
 	<div id="student">
 		<h2>Profession:</h2>
-		<p></p>
+		<p>Allison is a student in her senior year of highschool, and although she has worked summer jobs as a lifeguard and on a golf course,
+		she intends to go to university.</p>
 	</div><div id="tech">
 		<h2>Technology:</h2>
-			<p></p>
+			<p>Iphone 8 on IOS 10.3.3</p>
 		</div><div id="behaviors">
 			<h2>Outlook</h2>
+			<p>Allison is simultaneously excited and apprehensive about her future. She is engaged socially and on social media, yet nonetheless does not feel
+			like her image or "online story" is crafted well for when she goes to university. She is comfortable paying a premium price for excellent photos.</p>
 		</div><div id="needs">
 			<h2>Frustrations/Needs</h2>
 			<ul>
-				<li></li>
+				<li>Other photographers are difficult or </li>
 				<li></li>
 				<li></li>
 			</ul>
@@ -47,4 +52,4 @@
 	<!---->
 	<!--		Goal: The primary goal of this site is for users of the site to initiate contact with me in regards to employment and collaboration opportunities through the contact form, and/or the connected social media profiles.-->
 	<!--		The secondary goal of this site is to showcase my work, and to contribute to a polished professional online presence.-->
-</body>
+<!--</body>-->
