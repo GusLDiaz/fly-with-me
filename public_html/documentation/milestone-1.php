@@ -32,18 +32,19 @@
 			<p>Allison is simultaneously excited and apprehensive about her future. She is engaged socially and on social media, yet nonetheless does not feel
 			like her image or "online story" is crafted well for when she goes to university. She is comfortable paying a premium price for excellent photos.</p>
 		</div><div id="needs">
-			<h2>Frustrations/Needs</h2>
+			<h2>Frustrations</h2>
 			<ul>
-				<li>Other photographers are difficult or </li>
-				<li></li>
-				<li></li>
+				<li>Other photographers are often difficult or require extended wait periods to schedule photo sessions.</li>
+				<li>Professional portrait photographers can often be comfortable in there studio or select locales, many the same as used by Allison's peers</li>
+				<li>Each independent photographer has there own style and their own rates, and there is no easy way to shop around.</li>
 			</ul>
 		</div><div id="Goals">
 			<h2>Goals</h2>
-			<p></p>
+			<p>To browse a selection of photographers and/or locations and be able to schedule a safe, unique, hiqh quality photoshoot for her senior photos.
+			</p>
 		</div><div id="user-story">
 			<h2>User Story</h2>
-			<p></p>
+			<p>As a user, I need to browse the providers and select my custom, one-of-a-kind photo experience.<em>"To Fly Away"</em></p>
 			</div>
 	</section>
 
